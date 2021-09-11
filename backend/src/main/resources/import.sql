@@ -1,8 +1,8 @@
-INSERT INTO tb_sellers(name) VALUES ('Diana Prince');
+INSERT INTO tb_sellers(name) VALUES ('Jessica Jones');
 INSERT INTO tb_sellers(name) VALUES ('Natasha Romanoff');
+INSERT INTO tb_sellers(name) VALUES ('Diana Prince');
 INSERT INTO tb_sellers(name) VALUES ('Ororo Munroe');
 INSERT INTO tb_sellers(name) VALUES ('Harleen Quinzel');
-INSERT INTO tb_sellers(name) VALUES ('Jessica Jones');
 
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (5,83,66,5501.0,'2021-04-01');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (5,113,78,8290.0,'2021-03-31');
